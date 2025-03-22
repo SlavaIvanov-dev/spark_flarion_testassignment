@@ -1,5 +1,7 @@
 # Spark Flarion Test Assignment
-This project is a full-stack application for displaying Spark job statistics. The frontend is a React application built with TypeScript, while the backend is a Node.js Express server that reads job data from Parquet files. The app is containerized using Docker and includes automated tests for both frontend and backend.
+This project is a full-stack application for displaying Spark job statistics. 
+The frontend is a React application built with TypeScript, while the backend is a Node.js Express server that reads job data from Parquet files. 
+The app is containerized using Docker and includes automated tests for both frontend and backend.
 
 ## Project Structure
 
